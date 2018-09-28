@@ -1,1 +1,45 @@
 /* All styles for your header Components live here */
+
+
+.header-wrapper {
+    
+    display:flex;
+}
+
+.title-social {
+    display:flex;
+    align-items: center;
+}
+
+.title-social h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.title-social h2 {
+    padding-left: 10px;
+    margin-bottom: 10px;
+    font-size:15px;
+    color: grey;
+}
+
+.header-content{
+    padding-left:10px;
+}
+
+.header-content p {
+    margin-top:0px;
+    
+}
+
+.lambda-image{
+    width:80px;
+    height:80px;
+    margin-top:16.75px;
+
+}
+
+.lambda-image image {
+    width:100%;
+}
