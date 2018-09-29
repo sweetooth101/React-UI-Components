@@ -22,14 +22,20 @@
     font-weight: bold;
     padding-left: 20px;
     margin-bottom: 5px;
+    color:black;
 }
 
 .bottom-content p {
     font-size: 15px;
     padding-left: 20px;
     margin-top: 5px;
+    color:black;
 }
 
 .bottom-content p:nth-child(3){
     color:grey;
+}
+
+.card-wrapper a{
+ text-decoration: none;
 }
